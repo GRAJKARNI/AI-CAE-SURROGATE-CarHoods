@@ -1,0 +1,2 @@
+Model,Test_Split,R2,MAE_mm,RMSE_mm
+Multimodal PointNet Fusion,Random held-out design test set,0.9739,0.3467,0.6896
